@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsproutsocial.com%2Ftemplates%2Flinkedin-personal-banners%2F&psig=AOvVaw1Kx9iHFGLzu8IQ7R_-aXYN&ust=1712757375068000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDspsmktYUDFQAAAAAdAAAAABAS)
 <h1 align="center">Hi 👋, I'm Muhammet Fatih Aktaş</h1>
 <h3 align="center">Game Developer</h3>
 
@@ -13,5 +12,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihaktass&show_icons=true&locale=en&layout=compact" alt="fatihaktass" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihaktass&show_icons=true&locale=en" alt="fatihaktass" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatihaktass&" alt="fatihaktass" /></p>
